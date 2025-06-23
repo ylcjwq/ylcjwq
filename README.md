@@ -27,7 +27,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
-![nodedotjs](https://img.shields.io/badge/nodedotjs?logo=nodedotjs&logoColor=fff)
+![nodedotjs](https://img.shields.io/badge/NODEJS-5FA04E?logo=nodedotjs&logoColor=333)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylcjwq) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
